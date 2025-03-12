@@ -1,0 +1,221 @@
+Below is the comprehensive Terms of Use, Service Agreement, and Disclaimer for the PhotoCoin platform. This document is designed to cover all aspects of the service, including registration, transactions, content posting, sponsored posts, user responsibilities, and—most importantly—DISCLAIMER OF ALL LEGAL AND OTHER LIABILITY FOR HACKING, LOSS, DISAGREEMENTS, NON-PAYMENT, BUGS, ERRORS, ETC. (NO LIABILITY FOR HACKING, LOSS, DISAGREEMENTS, NON-PAYMENT, BUGS, ERRORS, ETC.). The language is crafted to be clear and user-friendly while firmly limiting any legal or other liabilities on the part of PhotoCoin.
+---
+PHOTOCOIN TERMS OF USE & SERVICE AGREEMENT
+Effective Date: March 9th, 2025
+
+This Terms of Use and Service Agreement (“Agreement”) sets forth the legally binding terms and conditions for your use of the PhotoCoin platform (“PhotoCoin”, “Service”, or “Platform”), which is a web3 crypto project with a dedicated website, a server-side application (server.py), and an integrated smart contract. By accessing or using the Service, you (“User”) agree to be bound by this Agreement. If you do not agree with any part of these terms, please refrain from using the Service.
+
+1. INTRODUCTION
+1.1. Overview:
+PhotoCoin is an innovative crypto-earning platform accessible exclusively via personal computers. The platform allows Users to register by connecting their Metamask wallet, signing a transaction with the smart contract, and subsequently sending a registration request via server.py—all through a simple button click.
+
+1.2. Purpose:
+The purpose of PhotoCoin is to enable Users to convert deposited crypto tokens into internal “Photocoin” tokens at a dynamically changing exchange rate. Users can earn Photocoins through various activities including posting photos with text captions, receiving likes, and engaging in interactions such as liking posts that subsequently receive additional likes.
+
+1.3. Service Evolution:
+PhotoCoin reserves the right to modify, suspend, or update any part of the Service at any time without prior notice. Continued use of the Service after modifications constitutes acceptance of the updated terms.
+
+2. DEFINITIONS
+For the purposes of this Agreement, the following terms are defined as follows:
+
+PhotoCoin: The crypto project offering the Service that combines a website, server application (server.py), and smart contract.
+User: Any individual or entity that registers and uses the Service.
+Metamask: A crypto wallet application used for connecting to the PhotoCoin platform.
+Smart Contract: A blockchain-based automated contract that processes registrations, token conversions, content postings, and other transactions.
+Photocoin: The internal token issued by the Service upon conversion of crypto tokens deposited by the User.
+Crypto Token: Any digital token (e.g., Wbera, Monad, or any other token chosen by PhotoCoin in the future) that can be exchanged for Photocoins.
+Sponsored Post: A feature that enables Users to promote their posts (via an additional fee) to gain enhanced visibility and a distinctive badge.
+Transaction: Any action that involves signing and executing a smart contract operation (e.g., registration, conversion, posting, or liking).
+Commission: The fee required to execute any transaction, imposed by both the underlying blockchain network and the Service.
+3. DESCRIPTION OF THE SERVICE
+3.1. Service Functionality:
+PhotoCoin provides Users with the following features(incomplete and inaccurate list, ask us for details):
+
+Registration: Users connect their Metamask wallet and sign a transaction with the smart contract. Following this, a request is sent to server.py for final registration.
+Token Deposit and Conversion: Users may deposit crypto tokens into the smart contract, where these tokens are automatically converted into Photocoins at a dynamically determined rate.
+Content Posting: Users can upload photos along with text captions. Posts can be optionally upgraded to sponsored posts (subject to a fee) to secure a special badge and higher placement in the feed.
+User Interactions: Liking posts is processed through the smart contract. Users earn Photocoins both when their posts receive likes and when they like posts that subsequently receive additional likes.
+Conversion Back: Photocoins can be converted back to crypto tokens (subject to a 2% commission and a dynamically changing exchange rate) only after specific conditions are met (e.g., after a predetermined period such as one month from registration or other criteria defined by PhotoCoin). This condition is communicated in a user-friendly manner to ensure clarity without discouraging participation.
+3.2. Platform Limitations:
+The Service is optimized for use on personal computers only. Mobile devices are not supported at this time.
+
+4. REGISTRATION AND ACCESS
+4.1. Registration Process:
+To register, the User must:
+
+Connect an active Metamask wallet.
+Sign the required transaction in the smart contract to register on the blockchain.
+Submit a registration request via server.py.
+4.2. User Obligations:
+Users agree to provide accurate, up-to-date information during registration and to update their details as necessary. PhotoCoin shall not be liable for loss of access due to misplaced private keys, passwords, or any authentication details.
+
+4.3. Security Measures:
+Users are solely responsible for maintaining the security of their digital credentials. Any unauthorized access due to the User’s failure to secure their credentials is strictly their responsibility.
+
+5. TRANSACTIONS, OPERATIONS, AND TOKEN CONVERSIONS
+5.1. Deposits and Conversions:
+Upon depositing crypto tokens into the smart contract, these tokens are automatically converted into Photocoins at an exchange rate determined algorithmically and subject to market conditions and Service parameters.
+
+5.2. Earning Photocoins:
+Users earn Photocoins by:
+
+Receiving likes on their posts (according to a predetermined formula).
+Engaging with content (e.g., liking a photo that later receives additional likes), also as per a defined formula.
+5.3. Conversion Back to Crypto:
+Photocoins may be converted back to crypto tokens (such as Wbera, Monad, or others to be determined) only when PhotoCoin authorizes such a conversion. The conversion rate is subject to fluctuations, and a commission fee of 2% is applied.
+
+5.4. Transaction Fees:
+All operations executed through the Service require signing a transaction, which incurs a fee as dictated by the underlying blockchain network and PhotoCoin’s internal policies.
+
+6. SPONSORED POSTS AND ADVERTISING
+6.1. Sponsored Posts:
+Users may choose to upgrade their posts to “Sponsored Posts” by paying an additional fee. Such posts receive a distinct badge and are prioritized in the content feed for enhanced visibility.
+
+6.2. Advertising:
+PhotoCoin reserves the right to display advertisements within the Service. Any advertising content is subject to internal review and may be modified or removed at PhotoCoin’s discretion.
+
+6.3. Content Review:
+All sponsored posts and advertisements are subject to moderation. PhotoCoin retains the right to reject or remove any content that violates internal policies or applicable laws.
+
+7. USER CONTENT AND INTELLECTUAL PROPERTY
+7.1. User-Submitted Content:
+Users are allowed to upload photos, add captions, and post comments. By uploading content, Users warrant that they own the rights to the content and that its use does not infringe upon any third-party rights.
+
+7.2. License Grant:
+By posting content on the Service, Users grant PhotoCoin a non-exclusive, perpetual, royalty-free license to use, modify, distribute, and display such content in connection with the Service, including for promotional purposes.
+
+7.3. User Responsibility:
+Users are fully responsible for any content they submit. PhotoCoin disclaims any liability for disputes arising from user-generated content and encourages Users to ensure that their content complies with all applicable laws and guidelines.
+
+8. RISKS AND WARNINGS
+8.1. Inherent Risks:
+The use of blockchain technology, smart contracts, and crypto transactions involves inherent risks, including but not limited to:
+
+Technical issues such as bugs, errors, and unintentional failures in the code.
+Hacking and security breaches.
+Loss of funds due to mismanagement or compromised private keys.
+Network disruptions or failures in the blockchain infrastructure.
+Unforeseen changes in market conditions that could affect token conversion rates.
+8.2. User Competence:
+Users are required to possess a sufficient level of knowledge regarding cryptocurrencies, blockchain, and digital asset management. PhotoCoin is not responsible for any losses incurred due to a lack of technical understanding.
+
+8.3. IMPORTANT DISCLAIMER:
+NO LIABILITY FOR HACKING, LOSS, DISAGREEMENTS, NON-PAYMENT, BUGS, ERRORS, ETC. This clause emphasizes that PhotoCoin, its developers, and affiliated parties shall not be held liable under any circumstances relating to cybersecurity breaches, technical malfunctions, or other unforeseen operational failures.
+
+9. DISCLAIMER OF LIABILITY
+9.1. “AS IS” BASIS:
+The PhotoCoin Service is provided on an “as is” and “as available” basis. PhotoCoin makes no express or implied warranties regarding the functionality, security, or reliability of the Service.
+
+9.2. General Disclaimer:
+By using the Service, the User agrees that PhotoCoin is not liable for:
+
+Hacking incidents, unauthorized access, or data breaches.
+Loss of funds or digital assets due to technical errors, bugs, or system malfunctions.
+Any disputes or disagreements arising from the execution of transactions.
+Non-payment, delays, or any interruptions in service.
+Any consequential, indirect, or incidental damages of any kind.
+9.3. User Responsibility:
+Users acknowledge that all transactions are final and irreversible. It is the User’s responsibility to verify all transaction details before confirmation. PhotoCoin shall not be responsible for any errors or omissions in transaction processing.
+
+10. LIMITATION OF LIABILITY
+10.1. Cap on Damages:
+To the fullest extent permitted by law, PhotoCoin and its affiliates shall not be liable for any direct, indirect, incidental, special, or consequential damages arising from the use of the Service—even if PhotoCoin has been advised of the possibility of such damages.
+
+10.2. Claim Period:
+Any claims arising out of or in connection with this Agreement must be submitted within one (1) year from the date the claim arose. Claims made after this period will be deemed waived.
+
+11. MODIFICATIONS, SUSPENSION, AND TERMINATION
+11.1. Service Changes:
+PhotoCoin reserves the right to modify, suspend, or discontinue any aspect of the Service at any time, with or without prior notice. This includes changes to token conversion algorithms, transaction fees, and reward structures.
+
+11.2. User Account Suspension:
+In the event of a violation of this Agreement or any internal policies, PhotoCoin may suspend or terminate a User’s account without prior notice.
+
+11.3. No Liability for Interruptions:
+PhotoCoin shall not be liable for any interruption or cessation of Service access due to maintenance, technical issues, or any other reason beyond its control.
+
+12. DISPUTE RESOLUTION
+12.1. Negotiation:
+All disputes arising out of or related to this Agreement shall first be resolved amicably through direct negotiation between the parties.
+
+12.2. Arbitration and Litigation:
+If a dispute cannot be resolved through negotiation, the matter shall be submitted to binding arbitration in accordance with the applicable laws of the chosen jurisdiction. Users agree that any such arbitration will be conducted on an individual basis and not as part of a class action.
+
+12.3. Governing Procedures:
+Any arbitration shall be held in the jurisdiction specified in Section 14. PhotoCoin and the User agree to comply with all arbitration procedures as set forth in this Agreement.
+
+13. INDEMNIFICATION
+13.1. User Indemnity:
+The User agrees to defend, indemnify, and hold harmless PhotoCoin, its affiliates, officers, directors, employees, and agents from any claims, losses, liabilities, or expenses (including legal fees) arising from:
+
+The User’s violation of this Agreement.
+The User’s unauthorized use of the Service.
+Any claims relating to the User’s submitted content.
+Any breach of applicable laws or regulations.
+13.2. Right to Settle:
+PhotoCoin reserves the right to assume the exclusive defense and control of any matter subject to indemnification by the User and will not settle any claim without the prior written consent of the User.
+
+14. GOVERNING LAW
+14.1. Applicable Jurisdiction:
+This Agreement shall be governed by and construed in accordance with the laws of [Insert Jurisdiction], without regard to its conflict of law principles.
+
+14.2. Venue:
+Any disputes arising out of or related to this Agreement shall be resolved exclusively in the courts or arbitration forums located in [Insert Jurisdiction].
+
+15. MISCELLANEOUS
+15.1. Entire Agreement:
+This Agreement constitutes the entire agreement between the User and PhotoCoin concerning the use of the Service and supersedes all prior or contemporaneous communications and proposals.
+
+15.2. Severability:
+If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+15.3. Amendments:
+PhotoCoin reserves the right to amend or modify this Agreement at any time. Any changes will be effective immediately upon posting the updated Agreement on the official website. Continued use of the Service constitutes acceptance of the amended terms.
+
+15.4. Electronic Communications:
+All notices and communications regarding this Agreement will be delivered electronically, either via email or through postings on the PhotoCoin website.
+
+16. DATA SECURITY AND PRIVACY
+16.1. User Data Protection:
+PhotoCoin employs commercially reasonable measures to protect the integrity and security of User data. However, due to the inherent risks in digital communications and blockchain technology, absolute security cannot be guaranteed.
+
+16.2. User Responsibility:
+Users are solely responsible for safeguarding their private keys, passwords, and other credentials. PhotoCoin is not liable for any loss or damage resulting from the compromise of such information.
+
+16.3. Reporting Security Issues:
+Users are required to notify PhotoCoin immediately of any suspected security breaches or unauthorized access to their accounts.
+
+17. USE OF COOKIES AND TRACKING TECHNOLOGIES
+17.1. Cookie Policy:
+The Service may use cookies and similar tracking technologies to enhance user experience, analyze traffic, and gather statistical data. No personally identifiable information will be collected without the User’s consent, except as described in the Privacy Policy.
+
+17.2. User Control:
+Users may adjust their browser settings to manage cookie preferences, though this may impact the functionality of the Service.
+
+18. CONTACT INFORMATION
+18.1. Customer Support:
+For any inquiries regarding this Agreement or the operation of the Service, please contact PhotoCoin support at:
+Email: [Insert Support Email]
+Contact Form: [Insert Link, if available]
+
+18.2. Response Time:
+PhotoCoin will endeavor to respond to all support requests in a timely manner.
+
+19. FINAL PROVISIONS
+19.1. Acceptance:
+By accessing or using the PhotoCoin Service, the User acknowledges that they have read, understood, and agree to be bound by this Agreement.
+
+19.2. No Third-Party Beneficiaries:
+This Agreement does not confer any rights or benefits upon any third party.
+
+19.3. Force Majeure:
+PhotoCoin shall not be liable for any failure to perform its obligations under this Agreement due to circumstances beyond its reasonable control, including natural disasters, cyber attacks, government actions, or other events of force majeure.
+
+19.4. ADDITIONAL DISCLAIMER OF LIABILITY:
+NO LIABILITY FOR HACKING, LOSS, DISAGREEMENTS, NON-PAYMENT, BUGS, ERRORS, ETC. This additional clause reinforces that PhotoCoin, its developers, and all associated parties are not responsible for any damages or losses resulting from such events.
+
+19.5. Electronic Signature:
+This Agreement may be executed and delivered by electronic means, and any electronic signature shall be deemed valid and binding.
+
+By using the PhotoCoin platform, you agree to all the terms and conditions set forth above, including all modifications and amendments that may be made in the future. Should you have any questions or concerns regarding this Agreement, please contact us immediately.
+---

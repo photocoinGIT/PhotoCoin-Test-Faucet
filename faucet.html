@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PCT Faucet</title>
+  <meta name="contract-address" content="PLACEHOLDER">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/ethers@5.7.2/dist/ethers.umd.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <img src="logo.png" alt="Logo" class="logo">
+    <h1>PCT Faucet</h1>
+    <p>You can receive PCT (Eth Sepolia) once a day.</p>
+    <p class="small-text">
+      By continuing, you agree to the 
+      <a href="rules.html" class="rules-link">rules</a>.
+    </p>
+    <input type="text" id="walletAddress" placeholder="wallet address..." />
+    <button id="claimButton">GET 10 PCT</button>
+    <div id="message"></div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
