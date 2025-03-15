@@ -67,6 +67,15 @@ Photocoins may be converted back to crypto tokens (such as Wbera, Monad, or othe
 5.4. Transaction Fees:
 All operations executed through the Service require signing a transaction, which incurs a fee as dictated by the underlying blockchain network and PhotoCoin’s internal policies.
 
+5.5. Custody of Funds:
+PhotoCoin does not act as a custodian of user funds. All tokens and assets remain under the control of the user within the smart contract system. The user acknowledges that PhotoCoin has no access to, nor control over, any private keys, wallet balances, or token holdings. Users assume full responsibility for managing their own digital assets and bear all associated risks.
+
+5.6. Liquidity and Withdrawal Limitations:
+Users acknowledge that the availability of withdrawals from the PhotoCoin platform is subject to overall liquidity within the smart contract system. PhotoCoin does not guarantee that users will be able to withdraw their converted tokens at any specific time, as withdrawals are contingent upon the availability of liquidity. If there are insufficient funds within the smart contract, users may experience delays or limitations in withdrawing their assets. By using the Service, users explicitly accept the risk of liquidity shortages and agree that PhotoCoin is not liable for any associated inconveniences or financial losses.
+
+5.7. Withdrawal Conditions and Policy Changes:
+Users acknowledge that withdrawals from the PhotoCoin platform are subject to predefined conditions, including but not limited to time-based restrictions, minimum holding periods, and evolving service policies. PhotoCoin reserves the right to modify these conditions at any time without prior notice. Users understand that such modifications may impact the timing and eligibility of their withdrawals. By using the Service, users explicitly agree to comply with all withdrawal conditions in place at the time of their transaction and accept any future changes that may affect their ability to withdraw funds.
+
 6. SPONSORED POSTS AND ADVERTISING
 6.1. Sponsored Posts:
 Users may choose to upgrade their posts to “Sponsored Posts” by paying an additional fee. Such posts receive a distinct badge and are prioritized in the content feed for enhanced visibility.
@@ -89,18 +98,23 @@ Users are fully responsible for any content they submit. PhotoCoin disclaims any
 
 8. RISKS AND WARNINGS
 8.1. Inherent Risks:
-The use of blockchain technology, smart contracts, and crypto transactions involves inherent risks, including but not limited to:
+Users acknowledge that the use of blockchain technology, smart contracts, and decentralized applications involves inherent risks, including but not limited to:
 
-Technical issues such as bugs, errors, and unintentional failures in the code.
-Hacking and security breaches.
-Loss of funds due to mismanagement or compromised private keys.
-Network disruptions or failures in the blockchain infrastructure.
-Unforeseen changes in market conditions that could affect token conversion rates.
+Technical failures such as bugs, coding errors, and unintended smart contract behaviors.
+Hacking incidents, security breaches, and exploits targeting the smart contract or user wallets.
+Unauthorized access to blockchain transactions or wallet credentials due to phishing, malware, or social engineering attacks.
+Loss of funds due to protocol failures, liquidity shortages, or blockchain network disruptions.
+
+By using the Service, users explicitly accept these risks and agree that PhotoCoin, its developers, affiliates, and partners shall not be held liable for any financial losses, damages, or unfulfilled transactions resulting from such events. Users understand that the security of their funds depends on factors beyond PhotoCoin’s control, and they assume full responsibility for safeguarding their digital assets.
+
 8.2. User Competence:
 Users are required to possess a sufficient level of knowledge regarding cryptocurrencies, blockchain, and digital asset management. PhotoCoin is not responsible for any losses incurred due to a lack of technical understanding.
 
 8.3. IMPORTANT DISCLAIMER:
 NO LIABILITY FOR HACKING, LOSS, DISAGREEMENTS, NON-PAYMENT, BUGS, ERRORS, ETC. This clause emphasizes that PhotoCoin, its developers, and affiliated parties shall not be held liable under any circumstances relating to cybersecurity breaches, technical malfunctions, or other unforeseen operational failures.
+
+8.4. No Guarantee of Earnings:
+PhotoCoin does not guarantee any financial return, profit, or earnings from using the platform. Users acknowledge that the Service is designed as a decentralized application where rewards are dynamically determined by network activity and user participation. All engagements with the platform are undertaken at the user's own risk, and PhotoCoin assumes no liability for any financial losses, unrealized expectations, or changes in reward structures.
 
 9. DISCLAIMER OF LIABILITY
 9.1. “AS IS” BASIS:
@@ -115,7 +129,7 @@ Any disputes or disagreements arising from the execution of transactions.
 Non-payment, delays, or any interruptions in service.
 Any consequential, indirect, or incidental damages of any kind.
 9.3. User Responsibility:
-Users acknowledge that all transactions are final and irreversible. It is the User’s responsibility to verify all transaction details before confirmation. PhotoCoin shall not be responsible for any errors or omissions in transaction processing.
+Users acknowledge that all transactions conducted within the PhotoCoin platform are final and irreversible. Once a transaction is signed and broadcasted to the blockchain, it cannot be canceled, reversed, or modified under any circumstances. Users bear full responsibility for verifying all transaction details before confirming them. PhotoCoin shall not be liable for any errors, omissions, or losses resulting from transactions executed by the user.
 
 10. LIMITATION OF LIABILITY
 10.1. Cap on Damages:
@@ -157,7 +171,7 @@ PhotoCoin reserves the right to assume the exclusive defense and control of any 
 
 14. GOVERNING LAW
 14.1. Applicable Jurisdiction:
-This Agreement shall be governed by and construed in accordance with the laws of [Insert Jurisdiction], without regard to its conflict of law principles.
+This Agreement shall be governed by and construed in accordance with the laws of [Insert Jurisdiction], without regard to its conflict of law principles. Users acknowledge that, depending on their country of residence, certain disclaimers and liability limitations within this Agreement may be subject to local consumer protection laws. By using the Service, the user explicitly waives the right to claim protections under jurisdictions where such disclaimers would not normally apply, to the fullest extent permitted by law.
 
 14.2. Venue:
 Any disputes arising out of or related to this Agreement shall be resolved exclusively in the courts or arbitration forums located in [Insert Jurisdiction].
@@ -216,6 +230,16 @@ NO LIABILITY FOR HACKING, LOSS, DISAGREEMENTS, NON-PAYMENT, BUGS, ERRORS, ETC. T
 
 19.5. Electronic Signature:
 This Agreement may be executed and delivered by electronic means, and any electronic signature shall be deemed valid and binding.
+
+19.6. Acceptance of Terms:
+By accessing, registering, or using the PhotoCoin platform in any capacity, the User acknowledges, understands, and agrees to be bound by the terms set forth in this Agreement. Users explicitly waive any claims related to lack of knowledge or failure to review these terms.
+
+PhotoCoin shall not be held liable for any disputes arising from a User’s ignorance of the terms and conditions. It is the User’s sole responsibility to review this Agreement before participating in any transactions or interactions within the Service. If a User does not agree with any part of this Agreement, they must immediately cease all use of the Service.
+
+19.7. User’s Responsibility to Understand the Terms:
+The User acknowledges that it is their sole responsibility to read, understand, and accept this Agreement before using the Service. If the User is unable to read or comprehend the Agreement due to language barriers, disabilities, or other personal conditions, they must seek appropriate assistance (such as using a translation tool or consulting a legal advisor) before proceeding.
+
+By continuing to use the PhotoCoin platform, the User explicitly waives any claims related to their inability to read, understand, or interpret this Agreement. Lack of comprehension does not exempt the User from compliance with these Terms.
 
 By using the PhotoCoin platform, you agree to all the terms and conditions set forth above, including all modifications and amendments that may be made in the future. Should you have any questions or concerns regarding this Agreement, please contact us immediately.
 ---
