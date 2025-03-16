@@ -14,7 +14,7 @@ async function addTokenToWallet() {
       return;
     }
 
-    const tokenAddress = "0xEF110cbfB1c0c752e71ED7CA57069e78c0A823A1";
+    const tokenAddress = "0x4EFfaC3BF8741659A752a6b606e13709A24a590d";
     const tokenSymbol = "PCT";
     const tokenDecimals = 18;
     const tokenImage = "https://photocoinGIT.github.io/PhotoCoin-Test-Faucet/logo.png";
