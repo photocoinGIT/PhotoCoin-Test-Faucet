@@ -7,6 +7,31 @@ async function getIP() {
       return null;
     }
   }
+
+async function addTokenToWallet() {
+    const tokenAddress = "0xEF110cbfB1c0c752e71ED7CA57069e78c0A823A1";
+    const tokenSymbol = "PCT";
+    const tokenDecimals = 18;
+    const tokenImage = "https://photocoinGIT.github.io/PhotoCoin-Test-Faucet/logo.png";
+  
+    try {
+      const wasAdded = await ethereum.request({
+        method: "wallet_watchAsset",
+        params: {
+          type: "ERC20",
+          options: {
+            address: tokenAddress,
+            symbol: tokenSymbol,
+            decimals: tokenDecimals,
+            image: tokenImage,
+          },
+        },
+      });
+  
+    } catch (error) {
+      console.error("Error:", error);
+    }
+  }
   
   document.getElementById("claimButton").addEventListener("click", async () => {
     const messageEl = document.getElementById("message");
@@ -145,6 +170,7 @@ async function getIP() {
       await tx.wait();
       localStorage.setItem(ipKey, now.toString());
       messageEl.textContent = "Tokens sent successfully.";
+      addTokenToWallet();
     } catch (error) {
       console.error(error);
       messageEl.textContent = "Error: " + (error.data && error.data.message ? error.data.message : error.message);
