@@ -241,5 +241,27 @@ The User acknowledges that it is their sole responsibility to read, understand, 
 
 By continuing to use the PhotoCoin platform, the User explicitly waives any claims related to their inability to read, understand, or interpret this Agreement. Lack of comprehension does not exempt the User from compliance with these Terms.
 
+20. FAUCET USAGE POLICY
+
+20.1. Eligibility and Limitations
+Users acknowledge that the Faucet is a free token distribution service provided at the discretion of PhotoCoin. The number of tokens distributed, the frequency of claims, and eligibility requirements are subject to change at any time without notice. Users may only claim Faucet rewards once per 24 hours per wallet address and IP address, unless otherwise specified by PhotoCoin.
+
+20.2. No Guarantee of Distribution
+Users understand that the availability of Faucet tokens is not guaranteed. PhotoCoin reserves the right to modify, suspend, or discontinue the Faucet at any time without prior notice. Users are not entitled to any compensation or claims if they are unable to receive Faucet tokens due to system limitations, technical errors, network congestion, or policy changes.
+
+20.3. Anti-Abuse Policy
+Users agree not to exploit, manipulate, or abuse the Faucet system, including but not limited to:
+
+Creating multiple wallets to receive extra Faucet rewards.
+Using VPNs or proxies to bypass IP restrictions.
+Automating claims through scripts or bots.
+PhotoCoin reserves the right to permanently ban any user engaging in abusive behavior.
+
+20.4. No Liability for Transaction Issues
+PhotoCoin is not responsible for any delays, failures, or loss of tokens due to blockchain network congestion, smart contract errors, or any other technical failures. Users acknowledge that Faucet transactions, like all blockchain transactions, are final and irreversible.
+
+20.5. Modification of Terms
+PhotoCoin reserves the right to modify or remove the Faucet feature at any time. Users agree that changes to the Faucet policy do not entitle them to any refunds, compensation, or prior notice.
+
 By using the PhotoCoin platform, you agree to all the terms and conditions set forth above, including all modifications and amendments that may be made in the future. Should you have any questions or concerns regarding this Agreement, please contact us immediately.
 ---
