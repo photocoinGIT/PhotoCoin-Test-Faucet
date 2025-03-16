@@ -9,6 +9,11 @@ async function getIP() {
   }
 
 async function addTokenToWallet() {
+    
+    if (localStorage.getItem('tokenAdded')) {
+      return;
+    }
+
     const tokenAddress = "0xEF110cbfB1c0c752e71ED7CA57069e78c0A823A1";
     const tokenSymbol = "PCT";
     const tokenDecimals = 18;
@@ -27,6 +32,12 @@ async function addTokenToWallet() {
           },
         },
       });
+        
+      if (wasAdded) {
+        localStorage.setItem('tokenAdded', 'true');
+      } else {
+        console.log("Error");
+      }
   
     } catch (error) {
       console.error("Error:", error);
@@ -169,8 +180,9 @@ async function addTokenToWallet() {
       messageEl.textContent = "Transaction sent. Waiting for confirmation...";
       await tx.wait();
       localStorage.setItem(ipKey, now.toString());
-      messageEl.textContent = "Tokens sent successfully.";
+      messageEl.textContent = "Confirm adding the token...";
       addTokenToWallet();
+      messageEl.textContent = "Tokens sent successfully.";
     } catch (error) {
       console.error(error);
       messageEl.textContent = "Error: " + (error.data && error.data.message ? error.data.message : error.message);
